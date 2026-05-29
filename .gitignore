@@ -1,5 +1,6 @@
 mimicel.csv
 *.png
+*.xes
 mimicel_train.csv
 mimicel_val.csv
 mimicel_test.csv

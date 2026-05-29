@@ -1,4 +1,0 @@
-split,num_cases_written,unknown_activity_cases_skipped,other_cases_skipped,seq_file,time_dif_file,duration_file
-train,297519,0,0,results\encoded\train_MIMICEL.txt,results\encoded\train_MIMICEL_time_dif_norm.txt,results\encoded\train_MIMICEL_time_duration_norm.txt
-val,42502,0,0,results\encoded\val_MIMICEL.txt,results\encoded\val_MIMICEL_time_dif_norm.txt,results\encoded\val_MIMICEL_time_duration_norm.txt
-test,85007,0,0,results\encoded\test_MIMICEL.txt,results\encoded\test_MIMICEL_time_dif_norm.txt,results\encoded\test_MIMICEL_time_duration_norm.txt
