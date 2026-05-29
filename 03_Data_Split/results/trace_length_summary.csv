@@ -1,0 +1,5 @@
+split,n_cases,n_events,mean_trace_length,median_trace_length,max_trace_length
+global,425028,7568824,17.807824425684895,15.0,218
+train,3150,55725,17.69047619047619,15.0,118
+val,450,7947,17.66,15.0,76
+test,900,16104,17.893333333333334,16.0,70
