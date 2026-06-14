@@ -16,11 +16,11 @@ n_hid_d: 8
 n_layer_act: 3
 n_layer_d: 2
 seed: 88
-seq_len: 59
+seq_len: 100
 seq_num: 900
 test_size: 0
 train_size: 900
 valid_size: 0
-vocab_num_act: 9
+vocab_num_act: 6
 w_a: 100
 w_g: 1
