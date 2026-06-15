@@ -6,3 +6,4 @@ mimicel_val.csv
 mimicel_test.csv
 02_Data_EDA/results/*
 05_PALSYN/05_01_Encoding/results/*
+*_synthetic_data_*.csv
