@@ -1,0 +1,12 @@
+{
+  "attack_type": "model_independent",
+  "synthetic_method": "Rule_based",
+  "synthetic_file": "rule_based_synthetic_data_seed41.csv",
+  "target": "los_over_4h",
+  "member_n": 899,
+  "nonmember_n": 258,
+  "mia_auc": 0.5133416974933388,
+  "mia_accuracy": 0.4243733794295592,
+  "mia_precision": 0.7949367088607595,
+  "mia_recall": 0.3492769744160178
+}
