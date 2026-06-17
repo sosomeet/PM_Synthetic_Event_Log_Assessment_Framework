@@ -15,7 +15,7 @@ n_hid_act: 64
 n_hid_d: 8
 n_layer_act: 3
 n_layer_d: 2
-seed: 88
+seed: 45
 seq_len: 100
 seq_num: 899
 test_size: 0

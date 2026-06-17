@@ -6,7 +6,7 @@ from nets.process_gan_time import ProcessGAN_Time
 import utils.helper as helper
 
 # Set the random seed.
-seed = 88
+seed = 45
 np.random.seed(seed)
 
 
