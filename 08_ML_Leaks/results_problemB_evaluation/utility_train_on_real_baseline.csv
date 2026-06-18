@@ -1,0 +1,4 @@
+train_name,target,train_n,test_n,train_pos_rate,test_pos_rate,auc,accuracy,macro_f1,status
+Train_on_Real,readmission_30d,899,258,0.0,0.0,,,,train_single_class
+Train_on_Real,los_over_4h,899,258,0.6840934371523916,0.6201550387596899,0.7183354591836735,0.6744186046511628,0.5988152536097742,ok
+Train_on_Real,admission_conversion,899,258,0.4794215795328142,0.5155038759689923,0.7526616541353383,0.689922480620155,0.6897546897546898,ok
