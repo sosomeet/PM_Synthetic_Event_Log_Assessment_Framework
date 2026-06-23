@@ -1,4 +1,4 @@
-﻿stay_id,activity,timestamps
+﻿case:concept:name,concept:name,time:timestamp
 synthetic_case_0,Discharge from the ED,2142-11-24 05:02:17.812862+00:00
 synthetic_case_0,Enter the ED,2142-12-11 21:34:35.812862+00:00
 synthetic_case_0,Triage in the ED,2142-12-11 21:34:53.812862+00:00

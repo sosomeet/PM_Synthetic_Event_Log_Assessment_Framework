@@ -1,0 +1,25 @@
+{
+  "case_col": "stay_id",
+  "activity_col": "activity",
+  "time_col": "timestamps",
+  "prefix_events": 3,
+  "expected_seeds": [
+    41,
+    42,
+    43,
+    44,
+    45
+  ],
+  "targets": {
+    "readmission_30d": "재입원 예측",
+    "los_over_4h": "체류시간 초과",
+    "admission_conversion": "입원 전환"
+  },
+  "mia_vulnerable_auc_threshold": 0.6,
+  "notes": [
+    "Synthetic clinical labels are not fabricated. Missing labels cause Utility/MIA cells to be skipped.",
+    "Fidelity is computed per generator seed and aggregated as mean±std.",
+    "Utility uses TSTR: train on synthetic, test on real test.",
+    "Privacy uses ML-Leaks adapted: shadow synthetic -> shadow defender posterior -> attack MLP -> target defender posterior."
+  ]
+}

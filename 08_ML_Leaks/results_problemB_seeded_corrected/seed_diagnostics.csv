@@ -1,0 +1,4 @@
+generator,observed_seeds,missing_expected_seeds,n_observed
+ProcessGAN,"41,42,43,44,45",,5
+PALSYN,"41,42,43,44,45",,5
+Rule_based,"41,42,43,44,45",,5

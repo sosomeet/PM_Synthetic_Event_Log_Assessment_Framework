@@ -1,4 +1,4 @@
-﻿stay_id,activity,timestamps
+﻿case:concept:name,concept:name,time:timestamp
 synthetic_case_0,Medicine reconciliation,2128-03-23 05:41:40.922270+00:00
 synthetic_case_0,Enter the ED,2128-04-02 11:18:09.922270+00:00
 synthetic_case_0,Triage in the ED,2128-04-02 11:18:19.922270+00:00

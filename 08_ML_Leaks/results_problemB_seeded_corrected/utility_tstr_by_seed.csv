@@ -1,0 +1,46 @@
+generator,seed,target,target_korean,tstr_auc,train_on_real_auc,utility_gap,tstr_accuracy,tstr_f1,status,reason,n_synthetic_train,n_real_test,pos_rate_synthetic_train,pos_rate_real_test
+PALSYN,41,admission_conversion,입원 전환,,,,,,skipped,too_few_labeled_train_or_test train=0 test=0,,,,
+PALSYN,41,los_over_4h,체류시간 초과,0.5948979591836735,0.6397321428571427,0.04483418367346925,0.6085271317829457,0.721763085399449,ok,,804.0,258.0,0.6791044776119403,0.6201550387596899
+PALSYN,41,readmission_30d,재입원 예측,,,,,,skipped,too_few_labeled_train_or_test train=0 test=258,,,,
+PALSYN,42,admission_conversion,입원 전환,,,,,,skipped,too_few_labeled_train_or_test train=0 test=0,,,,
+PALSYN,42,los_over_4h,체류시간 초과,0.6278061224489796,0.6397321428571427,0.011926020408163152,0.6472868217054264,0.7775061124694377,ok,,783.0,258.0,0.6615581098339719,0.6201550387596899
+PALSYN,42,readmission_30d,재입원 예측,,,,,,skipped,too_few_labeled_train_or_test train=0 test=258,,,,
+PALSYN,43,admission_conversion,입원 전환,,,,,,skipped,too_few_labeled_train_or_test train=0 test=0,,,,
+PALSYN,43,los_over_4h,체류시간 초과,0.3860969387755102,0.6397321428571427,0.25363520408163254,0.6201550387596899,0.7655502392344498,ok,,803.0,258.0,0.688667496886675,0.6201550387596899
+PALSYN,43,readmission_30d,재입원 예측,,,,,,skipped,too_few_labeled_train_or_test train=0 test=258,,,,
+PALSYN,44,admission_conversion,입원 전환,,,,,,skipped,too_few_labeled_train_or_test train=0 test=0,,,,
+PALSYN,44,los_over_4h,체류시간 초과,0.6182397959183675,0.6397321428571427,0.02149234693877522,0.6007751937984496,0.7405541561712846,ok,,807.0,258.0,0.7001239157372986,0.6201550387596899
+PALSYN,44,readmission_30d,재입원 예측,,,,,,skipped,too_few_labeled_train_or_test train=0 test=258,,,,
+PALSYN,45,admission_conversion,입원 전환,,,,,,skipped,too_few_labeled_train_or_test train=0 test=0,,,,
+PALSYN,45,los_over_4h,체류시간 초과,0.532015306122449,0.6397321428571427,0.10771683673469379,0.6007751937984496,0.7405541561712846,ok,,811.0,258.0,0.657213316892725,0.6201550387596899
+PALSYN,45,readmission_30d,재입원 예측,,,,,,skipped,too_few_labeled_train_or_test train=0 test=258,,,,
+ProcessGAN,41,admission_conversion,입원 전환,,,,,,skipped,too_few_labeled_train_or_test train=0 test=0,,,,
+ProcessGAN,41,los_over_4h,체류시간 초과,0.4137117346938776,0.6397321428571427,0.22602040816326513,0.3798449612403101,0.0,ok,,899.0,258.0,0.0011123470522803114,0.6201550387596899
+ProcessGAN,41,readmission_30d,재입원 예측,,,,,,skipped,too_few_labeled_train_or_test train=0 test=258,,,,
+ProcessGAN,42,admission_conversion,입원 전환,,,,,,skipped,too_few_labeled_train_or_test train=0 test=0,,,,
+ProcessGAN,42,los_over_4h,체류시간 초과,0.4998086734693878,0.6397321428571427,0.13992346938775496,0.3798449612403101,0.0,ok,,897.0,258.0,0.0011148272017837235,0.6201550387596899
+ProcessGAN,42,readmission_30d,재입원 예측,,,,,,skipped,too_few_labeled_train_or_test train=0 test=258,,,,
+ProcessGAN,43,admission_conversion,입원 전환,,,,,,skipped,too_few_labeled_train_or_test train=0 test=0,,,,
+ProcessGAN,43,los_over_4h,체류시간 초과,0.6230229591836735,0.6397321428571427,0.016709183673469297,0.3798449612403101,0.0,ok,,899.0,258.0,0.0011123470522803114,0.6201550387596899
+ProcessGAN,43,readmission_30d,재입원 예측,,,,,,skipped,too_few_labeled_train_or_test train=0 test=258,,,,
+ProcessGAN,44,admission_conversion,입원 전환,,,,,,skipped,too_few_labeled_train_or_test train=0 test=0,,,,
+ProcessGAN,44,los_over_4h,체류시간 초과,0.4935586734693878,0.6397321428571427,0.14617346938775494,0.3798449612403101,0.0,ok,,897.0,258.0,0.0011148272017837235,0.6201550387596899
+ProcessGAN,44,readmission_30d,재입원 예측,,,,,,skipped,too_few_labeled_train_or_test train=0 test=258,,,,
+ProcessGAN,45,admission_conversion,입원 전환,,,,,,skipped,too_few_labeled_train_or_test train=0 test=0,,,,
+ProcessGAN,45,los_over_4h,체류시간 초과,0.5,0.6397321428571427,0.13973214285714275,0.3798449612403101,0.0,ok,,899.0,258.0,0.0011123470522803114,0.6201550387596899
+ProcessGAN,45,readmission_30d,재입원 예측,,,,,,skipped,too_few_labeled_train_or_test train=0 test=258,,,,
+Rule_based,41,admission_conversion,입원 전환,,,,,,skipped,too_few_labeled_train_or_test train=0 test=0,,,,
+Rule_based,41,los_over_4h,체류시간 초과,0.4575255102040816,0.6397321428571427,0.18220663265306114,0.40310077519379844,0.4253731343283582,ok,,899.0,258.0,0.6040044493882091,0.6201550387596899
+Rule_based,41,readmission_30d,재입원 예측,,,,,,skipped,single_class_test,,,,
+Rule_based,42,admission_conversion,입원 전환,,,,,,skipped,too_few_labeled_train_or_test train=0 test=0,,,,
+Rule_based,42,los_over_4h,체류시간 초과,0.4432397959183674,0.6397321428571427,0.19649234693877538,0.42248062015503873,0.4844290657439446,ok,,899.0,258.0,0.6051167964404894,0.6201550387596899
+Rule_based,42,readmission_30d,재입원 예측,,,,,,skipped,single_class_train,,,,
+Rule_based,43,admission_conversion,입원 전환,,,,,,skipped,too_few_labeled_train_or_test train=0 test=0,,,,
+Rule_based,43,los_over_4h,체류시간 초과,0.4540816326530611,0.6397321428571427,0.18565051020408163,0.40310077519379844,0.3418803418803419,ok,,899.0,258.0,0.6028921023359288,0.6201550387596899
+Rule_based,43,readmission_30d,재입원 예측,,,,,,skipped,single_class_test,,,,
+Rule_based,44,admission_conversion,입원 전환,,,,,,skipped,too_few_labeled_train_or_test train=0 test=0,,,,
+Rule_based,44,los_over_4h,체류시간 초과,0.4413265306122448,0.6397321428571427,0.19840561224489794,0.42248062015503873,0.4844290657439446,ok,,899.0,258.0,0.5951056729699666,0.6201550387596899
+Rule_based,44,readmission_30d,재입원 예측,,,,,,skipped,single_class_test,,,,
+Rule_based,45,admission_conversion,입원 전환,,,,,,skipped,too_few_labeled_train_or_test train=0 test=0,,,,
+Rule_based,45,los_over_4h,체류시간 초과,0.46122448979591835,0.6397321428571427,0.1785076530612244,0.4108527131782946,0.43703703703703706,ok,,899.0,258.0,0.6173526140155728,0.6201550387596899
+Rule_based,45,readmission_30d,재입원 예측,,,,,,skipped,single_class_test,,,,

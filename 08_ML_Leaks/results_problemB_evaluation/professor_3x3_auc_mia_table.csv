@@ -1,4 +1,0 @@
-generator,재입원 예측,체류시간 초과,입원 전환
-ProcessGAN,NA,0.440 / 0.489,NA
-PALSYN,NA,0.498 / 0.506,NA
-Rule_based,NA,0.494 / 0.516,0.600 / 0.516

@@ -1,4 +1,4 @@
-﻿stay_id,activity,timestamps
+﻿case:concept:name,concept:name,time:timestamp
 synthetic_case_1,Enter the ED,2125-01-15 06:48:00.919354+00:00
 synthetic_case_1,Discharge from the ED,2125-01-15 07:27:09.919354+00:00
 synthetic_case_1,Enter the ED,2125-01-22 04:13:45.919354+00:00

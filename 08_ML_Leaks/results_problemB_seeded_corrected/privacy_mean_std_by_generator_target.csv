@@ -1,0 +1,4 @@
+generator,target,target_korean,mia_auc_mean,mia_auc_std,mia_auc_n
+PALSYN,los_over_4h,체류시간 초과,0.4868449871088461,0.020677524509060158,5
+ProcessGAN,los_over_4h,체류시간 초과,0.5267109880918506,0.00985928733045869,5
+Rule_based,los_over_4h,체류시간 초과,0.48976295798087455,0.01988621071128086,5

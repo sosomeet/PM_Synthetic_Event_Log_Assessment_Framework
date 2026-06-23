@@ -1,4 +1,4 @@
-﻿stay_id,activity,timestamps
+﻿case:concept:name,concept:name,time:timestamp
 synthetic_case_1,Medicine dispensations,2174-07-08 10:37:06.878104+00:00
 synthetic_case_1,Enter the ED,2174-07-14 00:00:53.878104+00:00
 synthetic_case_1,Medicine reconciliation,2174-07-14 01:05:09.878104+00:00
