@@ -9,5 +9,5 @@ mimicel_test.csv
 *_synthetic_data_*.csv
 data.zip
 data/
-.venv
+*.venv
 *.docx
