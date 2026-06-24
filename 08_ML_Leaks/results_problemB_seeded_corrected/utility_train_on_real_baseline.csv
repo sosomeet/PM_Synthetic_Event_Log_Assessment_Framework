@@ -1,4 +1,0 @@
-target,target_korean,baseline_status,baseline_reason,baseline_auc,baseline_accuracy,baseline_f1,baseline_n_train,baseline_n_test,baseline_pos_rate_train,baseline_pos_rate_test,baseline_n_features
-readmission_30d,재입원 예측,skipped,single_class_train,,,,,,,,
-los_over_4h,체류시간 초과,ok,,0.6397321428571427,0.6162790697674418,0.6688963210702341,899.0,258.0,0.6840934371523916,0.6201550387596899,11.0
-admission_conversion,입원 전환,skipped,too_few_labeled_train_or_test train=0 test=0,,,,,,,,
