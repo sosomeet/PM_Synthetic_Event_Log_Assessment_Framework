@@ -7,6 +7,7 @@ mimicel_test.csv
 02_Data_EDA/results/*
 07_PALSYN/07_01_Encoding/results/*
 07_PALSYN/07_02_PALSYN/example_logs/
+07_PALSYN/07_02_PALSYN/PALSYN/
 *_synthetic_data_*.csv
 data.zip
 data/
