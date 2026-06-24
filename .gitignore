@@ -9,7 +9,8 @@ mimicel_test.csv
 07_PALSYN/07_02_PALSYN/example_logs/
 07_PALSYN/07_02_PALSYN/PALSYN/
 07_PALSYN/07_02_PALSYN/tutorial/lstm_model/
-*_synthetic_data_*.csv
+*_synthetic_*.csv
+palsyn*.xlsx
 data.zip
 data/
 *.venv
